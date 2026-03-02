@@ -73,6 +73,13 @@ A.Binita
 
 ---
 
+## ☁️ Why AWS?
+- Serverless architecture reduces complexity  
+- Scalable and reliable  
+- Supports AI services like Lex and Translate
+
+---
+
 ## 🛠️ Status
 
 🚧 Planning & Design Phase – Implementation will be done during hackathon using AWS Learner Labs.
