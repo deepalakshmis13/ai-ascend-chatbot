@@ -41,6 +41,13 @@ Translate (if needed)
 * ⚡ Fast and scalable cloud solution
 
 ---
+## 👤 Use Case
+A user asks:
+"எனக்கு அரசு உதவி திட்டங்கள் என்ன கிடைக்கும்?"
+
+The chatbot responds with relevant schemes in Tamil/English.
+
+---
 
 ## 📂 Project Structure
 
