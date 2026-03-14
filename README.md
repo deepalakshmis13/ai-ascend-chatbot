@@ -1,4 +1,9 @@
 # 🤖 Multilingual Government Scheme Chatbot
+## 🎥 Demo Video
+
+You can watch the project demo below:
+
+[Watch Demo Video]
 
 ### AI Ascend 2026 Hackathon Project
 
