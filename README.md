@@ -2,8 +2,7 @@
 ## 🎥 Demo Video
 
 You can watch the project demo below:
-
-[Watch Demo Video]
+https://youtu.be/CSsF7OzoR-A
 
 ### AI Ascend 2026 Hackathon Project
 
